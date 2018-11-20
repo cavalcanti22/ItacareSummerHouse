@@ -1,0 +1,9 @@
+[Tue Dec 13 02:45:01 2016] [error] [client 66.249.64.87] File does not exist: /home/storage/6/12/61/itacaresummerhouse/public_html/index.php
+[Tue Dec 13 07:07:48 2016] [error] [client 179.223.165.235] mod_mime_magic: invalid type 0 in mconvert()., referer: http://itacaresummerhouse.com.br/vendor/font-awesome/css/font-awesome.min.css
+[Tue Dec 13 15:20:43 2016] [error] [client 66.249.64.82] File does not exist: /home/storage/6/12/61/itacaresummerhouse/public_html/index.php
+[Tue Dec 13 20:52:41 2016] [error] [client 189.90.57.18] File does not exist: /home/storage/6/12/61/itacaresummerhouse/public_html/index.php, referer: https://www.google.com.br/
+[Tue Dec 13 20:52:41 2016] [error] [client 189.90.57.18] File does not exist: /home/storage/6/12/61/itacaresummerhouse/public_html/index.php, referer: http://itacaresummerhouse.com.br/fotos.html
+[Tue Dec 13 20:52:45 2016] [error] [client 189.90.57.18] mod_mime_magic: invalid type 0 in mconvert()., referer: http://itacaresummerhouse.com.br/vendor/font-awesome/css/font-awesome.min.css
+[Tue Dec 13 22:54:10 2016] [error] [client 179.223.165.235] File does not exist: /home/storage/6/12/61/itacaresummerhouse/public_html/index.php
+[Tue Dec 13 22:54:10 2016] [error] [client 179.223.165.235] File does not exist: /home/storage/6/12/61/itacaresummerhouse/public_html/index.php
+[Tue Dec 13 22:54:10 2016] [error] [client 179.223.165.235] File does not exist: /home/storage/6/12/61/itacaresummerhouse/public_html/index.php

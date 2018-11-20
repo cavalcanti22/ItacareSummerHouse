@@ -1,0 +1,36 @@
+.navbar-inverse{
+	background-color: #0098BA;
+	border-color: #fff;
+}
+
+.sidebar-main{
+	background-color: #086D93;
+	color: #fff;
+
+}
+
+.imgExpand{
+	width: 10%;
+}
+
+.imgExpand:hover{
+	width: 40%;
+
+}
+
+
+
+@media only screen and (max-width: 768px) { 
+
+	.imgExpand{
+	width: 40%;
+}
+
+.imgExpand:hover{
+	width: 100%;
+
+}
+
+
+
+}

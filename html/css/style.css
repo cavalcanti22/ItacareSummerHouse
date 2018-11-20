@@ -1,0 +1,28 @@
+.logos img{
+	width:20%;
+	height: auto;
+}
+
+
+
+
+@media (max-width: 425px) {
+
+	#hosp{
+		font-size: 25px;
+	}
+
+	#botaomais{
+		font-size: 7px;
+		padding: 10px 4px;
+	}
+}
+
+@media (max-width: 375px) {
+
+	#hosp{
+		font-size: 20px;
+	}
+
+	
+}

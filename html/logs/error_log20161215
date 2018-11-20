@@ -1,0 +1,3 @@
+[Thu Dec 15 07:39:06 2016] [error] [client 179.223.165.235] File does not exist: /home/storage/6/12/61/itacaresummerhouse/public_html/vendor/bootstrap/css/bootstrap.min.css.map
+[Thu Dec 15 15:31:30 2016] [error] [client 179.223.165.235] mod_mime_magic: invalid type 0 in mconvert()., referer: http://itacaresummerhouse.com.br/vendor/font-awesome/css/font-awesome.min.css
+[Thu Dec 15 19:57:23 2016] [error] [client 179.223.165.235] mod_mime_magic: invalid type 0 in mconvert()., referer: http://itacaresummerhouse.com.br/vendor/font-awesome/css/font-awesome.min.css
